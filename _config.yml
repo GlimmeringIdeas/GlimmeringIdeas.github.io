@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal-resume
+theme: jekyll-theme-minimal
 title: Wade's Homepage
 description: null
+lsi: false
+safe: true
+source: Test
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
